@@ -1,16 +1,16 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: My portfolio 🥺
+- 🔭 I’m currently working on: An Unreal Engine grass painting tool 🎨
 - 🌱 I’m currently learning: C++ and LeetCode problem solving!
-- 👯 I’m looking to collaborate on: An indie game 🎮
-- 🤔 I’m looking for help with: OpenGL Graphics Programming
-- 💬 Ask me about: My hobbies, projects and games 😋
+- 👯 I’m looking to collaborate on: A game 🎮
+- 🤔 I’m looking for help with: OpenGL Graphics Programming and Shaders
+- 💬 Ask me about: My hobbies, projects and favorite games 😋
 - 📫 How to reach me: 
 <a href="https://linkedin.com/in/mbajaman/"> LinkedIn 
 	<img src="https://github.com/mbajaman/mbajaman/blob/master/images/LinkedIn_logo_initials.png" width="20">
 </a> | 
 <a href="mailto:mohammed_bajaman@hotmail.com"> Email ✉ </a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm currently learning Korean 🗣
+- ⚡ Fun fact: I'm currently into Badminton 🏸
 
 
 
