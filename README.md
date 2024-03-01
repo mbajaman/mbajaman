@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning: C++ and LeetCode problem solving!
 - 👯 I’m looking to collaborate on: A game 🎮
 - 🤔 I’m looking for help with: OpenGL Graphics Programming and Shaders
+- 👉 Check out my itch page: <a href="https://mbajaman.itch.io/"> Itch.io </a>
 - 💬 Ask me about: My hobbies, projects and favorite games 😋
 - 📫 How to reach me: 
 <a href="https://linkedin.com/in/mbajaman/"> LinkedIn 
